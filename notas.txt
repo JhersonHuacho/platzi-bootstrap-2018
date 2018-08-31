@@ -1,0 +1,6 @@
+clases en Bootstrap:
+
+pb => padding bottom
+pt => padding top
+mr => margin right
+ml => margin left
