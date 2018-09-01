@@ -4,3 +4,7 @@ pb => padding bottom
 pt => padding top
 mr => margin right
 ml => margin left
+
+data-pause="false" => no ponga pausa al poner el mouse en la imagen
+
+object-fit: cover;
