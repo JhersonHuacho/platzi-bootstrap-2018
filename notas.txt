@@ -10,3 +10,5 @@ data-pause="false" => no ponga pausa al poner el mouse en la imagen
 object-fit: cover;
 
 d-none => display: none;
+
+*** Los cards de Bootstrap
