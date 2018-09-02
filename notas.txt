@@ -12,3 +12,10 @@ object-fit: cover;
 d-none => display: none;
 
 *** Los cards de Bootstrap
+***
+Los contenedores son el elemento de diseño más básico en Bootstrap y son necesarios al usar nuestro sistema de grillas predeterminado.
+
+.container: ancho fijo
+.container-fluid: ancho fluido
+
+Clase .container-fluid: permite ocupar todo el ancho disponible, sin importar la resolución.
