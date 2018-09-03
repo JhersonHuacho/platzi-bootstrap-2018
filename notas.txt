@@ -19,3 +19,7 @@ Los contenedores son el elemento de diseño más básico en Bootstrap y son nece
 .container-fluid: ancho fluido
 
 Clase .container-fluid: permite ocupar todo el ancho disponible, sin importar la resolución.
+
+*** Agregando un tooltip
+¿Qué es un tolltip?
+Un tooltip (tambien llamado descripción emergente) es una herramienta de ayuda visual, que funciona al situar el cursor sobre algún elemento gráfico, mostrando una ayuda adicional para informar al usuario de la finalidad del elemento sobre el que se encuentra.
