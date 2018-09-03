@@ -23,3 +23,13 @@ Clase .container-fluid: permite ocupar todo el ancho disponible, sin importar la
 *** Agregando un tooltip
 ¿Qué es un tolltip?
 Un tooltip (tambien llamado descripción emergente) es una herramienta de ayuda visual, que funciona al situar el cursor sobre algún elemento gráfico, mostrando una ayuda adicional para informar al usuario de la finalidad del elemento sobre el que se encuentra.
+
+https://getbootstrap.com/docs/4.1/content/typography/#abbreviations
+https://getbootstrap.com/docs/4.1/components/tooltips/
+
+*** Scrollspy: Conociendo la ubicación del usuario en el header
+
+El scrollspy le permite al usuario conocer la posición dentro del sitio. Revisa más sobre este componente en: https://getbootstrap.com/docs/4.1/components/scrollspy/
+
+class="sticky-top" => pone el menu fijo y sigue cuando se hace scrolls
+data-offset="56.4" => tiene que ser el ancho del header
