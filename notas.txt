@@ -33,3 +33,6 @@ El scrollspy le permite al usuario conocer la posición dentro del sitio. Revisa
 
 class="sticky-top" => pone el menu fijo y sigue cuando se hace scrolls
 data-offset="56.4" => tiene que ser el ancho del header
+
+*** Agregando un modal para comprar tickets
+Bootstrap recomienda que todos los que son modal lo pongamos por fuera de otros elementos.
